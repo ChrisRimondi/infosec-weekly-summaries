@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>InfoSec Weekly Briefing</title>
+    <link>https://chrisrimondi.github.io/infosec-weekly-summaries</link>
+    <description>A weekly AI-generated briefing on information security, vulnerabilities, threat activity, defensive engineering, cloud security, identity, detection, and practical security lessons. Disclosure: episodes use AI-generated voices.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2026 16:00:00 GMT</lastBuildDate>
+    <itunes:author>Chris Rimondi</itunes:author>
+    <itunes:owner>
+      <itunes:name>Chris Rimondi</itunes:name>
+      <itunes:email>chris.rimondi@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://chrisrimondi.github.io/infosec-weekly-summaries/artwork/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>InfoSec Weekly Briefing - May 16, 2026</title>
+      <description>InfoSec Weekly Briefing - May 16, 2026
+
+This episode is AI-generated and based only on public sources.
+
+Intro
+
+Welcome to the InfoSec Weekly Briefing for Saturday, May 16, 2026.
+
+This week is a good reminder that security work is rarely one dramatic story. It is usually a braid of very ordinary pressures: patch volume, exploit prioritization, cloud shared-responsibility details, identity hygiene, developer supply-chain exposure, and the question every security leader has to answer on Monday morn
+
+Disclosure: this episode is AI-generated.</description>
+      <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">infosec-weekly-2026-05-16</guid>
+      <enclosure url="https://chrisrimondi.github.io/infosec-weekly-summaries/episodes/infosec-weekly-2026-05-16.mp3" length="31256876" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "title": "InfoSec Weekly Briefing",
+  "description": "A weekly AI-generated briefing on information security, vulnerabilities, threat activity, defensive engineering, cloud security, identity, detection, and practical security lessons.",
+  "author": "Chris Rimondi",
+  "ownerName": "Chris Rimondi",
+  "ownerEmail": "chris.rimondi@gmail.com",
+  "language": "en-us",
+  "category": "Technology",
+  "explicit": false,
+  "siteUrl": "https://chrisrimondi.github.io/infosec-weekly-summaries",
+  "feedUrl": "https://chrisrimondi.github.io/infosec-weekly-summaries/feed.xml",
+  "imageUrl": "https://chrisrimondi.github.io/infosec-weekly-summaries/artwork/cover.jpg",
+  "tts": {
+    "model": "gpt-4o-mini-tts",
+    "voice": "cedar",
+    "instructions": "Read this as a calm, concise technical podcast briefing for an experienced information security and engineering leader. Sound natural and thoughtful. Keep acronyms clear, avoid fearmongering, and maintain a steady Saturday-morning briefing tone."
+  }
+}
