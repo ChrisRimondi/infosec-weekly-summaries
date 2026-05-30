@@ -7,7 +7,7 @@
     <link>https://chrisrimondi.github.io/infosec-weekly-summaries</link>
     <description>A weekly AI-generated briefing on information security, vulnerabilities, threat activity, defensive engineering, cloud security, identity, detection, and practical security lessons. Disclosure: episodes use AI-generated voices.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 16:00:00 GMT</lastBuildDate>
     <itunes:author>Chris Rimondi</itunes:author>
     <itunes:owner>
       <itunes:name>Chris Rimondi</itunes:name>
@@ -16,6 +16,26 @@
     <itunes:image href="https://chrisrimondi.github.io/infosec-weekly-summaries/artwork/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>InfoSec Weekly Briefing - May 30, 2026</title>
+      <description>InfoSec Weekly Briefing - May 30, 2026
+
+This episode is AI-generated and based only on public sources.
+
+Intro
+
+Welcome to the InfoSec Weekly Briefing for Saturday, May 30, 2026.
+
+This week, the security story is less about one dramatic single bug and more about a familiar set of pressure points that keep converging: exploited edge technology, compromised developer tooling, identity-bearing build systems, and the operational challenge of proving that remediation actually happened.
+
+The headline l
+
+Disclosure: this episode is AI-generated.</description>
+      <pubDate>Sat, 30 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">infosec-weekly-2026-05-30</guid>
+      <enclosure url="https://chrisrimondi.github.io/infosec-weekly-summaries/episodes/infosec-weekly-2026-05-30.mp3" length="28439852" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>InfoSec Weekly Briefing - May 16, 2026</title>
       <description>InfoSec Weekly Briefing - May 16, 2026
